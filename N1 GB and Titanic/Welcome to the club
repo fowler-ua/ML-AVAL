@@ -1,5 +1,10 @@
 HelloWorld!
 
+Make sure you have 1) Python3 installed ( Anaconda is a convenient way for that).
+C:\ProgramData\Anaconda3
+2) Jupyter Notebook! (should go with Anaconda)
+Also, I recommend 3)PyCharm as IDE even though Anaconda has its own Spider.
+
 Titanic: In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive.
 https://www.kaggle.com/c/titanic
 
